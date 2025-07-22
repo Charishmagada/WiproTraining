@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|c:\\users\\charishma gada\\wipro\\day1\\helloworld\\helloworld\\bitwise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\bitwise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HelloWorld||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|c:\\users\\charishma gada\\wipro\\day1\\helloworld\\helloworld\\unary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\unary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|c:\\users\\charishma gada\\wipro\\day1\\helloworld\\helloworld\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|c:\\users\\charishma gada\\wipro\\day1\\helloworld\\helloworld\\custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|c:\\users\\charishma gada\\wipro\\day1\\helloworld\\helloworld\\variableex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\variableex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|c:\\users\\charishma gada\\wipro\\day1\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC441CA7-C4D0-4104-BEB3-58D533D8815B}|HelloWorld\\HelloWorld.csproj|c:\\users\\charishma gada\\wipro\\day1\\helloworld\\helloworld\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bitwise.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Bitwise.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Bitwise.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Bitwise.cs*",
+              "RelativeToolTip": "HelloWorld\\Bitwise.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:09:16.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unary.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Unary.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Unary.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Unary.cs",
+              "RelativeToolTip": "HelloWorld\\Unary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:58:51.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Calculation.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Calculation.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Calculation.cs",
+              "RelativeToolTip": "HelloWorld\\Calculation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:40:10.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Custom.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Custom.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Custom.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Custom.cs",
+              "RelativeToolTip": "HelloWorld\\Custom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:32:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\HelloWorld.csproj*",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T11:23:00.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VariableEx.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\VariableEx.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\VariableEx.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\VariableEx.cs",
+              "RelativeToolTip": "HelloWorld\\VariableEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:18:08.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day1\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:33:44.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\perfectnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\perfectnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Appdemo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\factors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\factors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\ladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\ladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\switchstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\switchstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\switchchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\switchchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\maxof3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\maxof3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\conversionctof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\conversionctof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|solutionrelative:appdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CC5EB4-22D5-4B5B-9D20-BBFA10662436}|Appdemo\\Appdemo.csproj|c:\\users\\charishma gada\\wipro\\day2\\appdemo\\appdemo\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerfectNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\PerfectNumber.cs",
+              "RelativeDocumentMoniker": "Appdemo\\PerfectNumber.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\PerfectNumber.cs",
+              "RelativeToolTip": "Appdemo\\PerfectNumber.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:33:15.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Factorial.cs",
+              "RelativeDocumentMoniker": "Appdemo\\Factorial.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Factorial.cs",
+              "RelativeToolTip": "Appdemo\\Factorial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:18:40.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factors.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Factors.cs",
+              "RelativeDocumentMoniker": "Appdemo\\Factors.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Factors.cs",
+              "RelativeToolTip": "Appdemo\\Factors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:09:38.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loop.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Loop.cs",
+              "RelativeDocumentMoniker": "Appdemo\\Loop.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Loop.cs",
+              "RelativeToolTip": "Appdemo\\Loop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:59:52.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ladder.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Ladder.cs",
+              "RelativeDocumentMoniker": "Appdemo\\Ladder.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Ladder.cs",
+              "RelativeToolTip": "Appdemo\\Ladder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:53:30.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwitchString.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\SwitchString.cs",
+              "RelativeDocumentMoniker": "Appdemo\\SwitchString.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\SwitchString.cs",
+              "RelativeToolTip": "Appdemo\\SwitchString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:54:21.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwitchChar.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\SwitchChar.cs",
+              "RelativeDocumentMoniker": "Appdemo\\SwitchChar.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\SwitchChar.cs",
+              "RelativeToolTip": "Appdemo\\SwitchChar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:27:18.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Maxof3.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Maxof3.cs",
+              "RelativeDocumentMoniker": "Appdemo\\Maxof3.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Maxof3.cs",
+              "RelativeToolTip": "Appdemo\\Maxof3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:21:57.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appdemo",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Appdemo.csproj",
+              "RelativeDocumentMoniker": "Appdemo\\Appdemo.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Appdemo.csproj",
+              "RelativeToolTip": "Appdemo\\Appdemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T05:29:33.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Circle.cs",
+              "RelativeDocumentMoniker": "Appdemo\\Circle.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Circle.cs",
+              "RelativeToolTip": "Appdemo\\Circle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:46:40.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConversionCtoF.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\ConversionCtoF.cs",
+              "RelativeDocumentMoniker": "Appdemo\\ConversionCtoF.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\ConversionCtoF.cs",
+              "RelativeToolTip": "Appdemo\\ConversionCtoF.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:26:49.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Appdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day2\\Appdemo\\Appdemo\\Program.cs",
+              "RelativeToolTip": "Appdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T04:24:02.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day3\\Shadowing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69CBA80D-9AFF-4A6A-A31D-5DF03725C854}|Shadowing\\Shadowing.csproj|c:\\users\\charishma gada\\wipro\\day3\\shadowing\\shadowing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CBA80D-9AFF-4A6A-A31D-5DF03725C854}|Shadowing\\Shadowing.csproj|solutionrelative:shadowing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\Shadowing\\Shadowing\\Program.cs",
+              "RelativeDocumentMoniker": "Shadowing\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\Shadowing\\Shadowing\\Program.cs",
+              "RelativeToolTip": "Shadowing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:41:45.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

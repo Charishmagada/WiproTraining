@@ -1,0 +1,7 @@
+C:\Users\Charishma Gada\Wipro\day3\Shadowing\Shadowing\bin\Debug\Shadowing.exe.config
+C:\Users\Charishma Gada\Wipro\day3\Shadowing\Shadowing\bin\Debug\Shadowing.exe
+C:\Users\Charishma Gada\Wipro\day3\Shadowing\Shadowing\bin\Debug\Shadowing.pdb
+C:\Users\Charishma Gada\Wipro\day3\Shadowing\Shadowing\obj\Debug\Shadowing.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day3\Shadowing\Shadowing\obj\Debug\Shadowing.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day3\Shadowing\Shadowing\obj\Debug\Shadowing.exe
+C:\Users\Charishma Gada\Wipro\day3\Shadowing\Shadowing\obj\Debug\Shadowing.pdb

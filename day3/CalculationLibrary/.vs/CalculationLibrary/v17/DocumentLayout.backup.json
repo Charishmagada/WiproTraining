@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day3\\CalculationLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED345267-18F8-41C9-A9D8-89CE61739C9E}|CalculationClient\\CalculationClient.csproj|c:\\users\\charishma gada\\wipro\\day3\\calculationlibrary\\calculationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED345267-18F8-41C9-A9D8-89CE61739C9E}|CalculationClient\\CalculationClient.csproj|solutionrelative:calculationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B708CD77-9270-4EF4-A4E2-DEABC5E3CD73}|CalculationLibrary\\CalculationLibrary.csproj|c:\\users\\charishma gada\\wipro\\day3\\calculationlibrary\\calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B708CD77-9270-4EF4-A4E2-DEABC5E3CD73}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\CalculationLibrary\\CalculationClient\\Program.cs",
+              "RelativeDocumentMoniker": "CalculationClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\CalculationLibrary\\CalculationClient\\Program.cs*",
+              "RelativeToolTip": "CalculationClient\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:32:36.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\CalculationLibrary\\CalculationLibrary\\Calculation.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\Calculation.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\CalculationLibrary\\CalculationLibrary\\Calculation.cs*",
+              "RelativeToolTip": "CalculationLibrary\\Calculation.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:28:57.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

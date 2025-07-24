@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OopsConcepts||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\inheritanceconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\inheritanceconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\constructoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\constructoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\staticconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\staticconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\overloadex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\overloadex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\methodoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\methodoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255DDC6-198D-4EDF-BFCA-CF1F7C653D1A}|OopsConcepts\\OopsConcepts.csproj|c:\\users\\charishma gada\\wipro\\day3\\oopsconcepts\\oopsconcepts\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InheritanceConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\InheritanceConstructor.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\InheritanceConstructor.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\InheritanceConstructor.cs*",
+              "RelativeToolTip": "OopsConcepts\\InheritanceConstructor.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:09:29.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\Inheritance.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\Inheritance.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\Inheritance.cs",
+              "RelativeToolTip": "OopsConcepts\\Inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:01:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConstructorOverloading.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\ConstructorOverloading.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\ConstructorOverloading.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\ConstructorOverloading.cs",
+              "RelativeToolTip": "OopsConcepts\\ConstructorOverloading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:25:11.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaticConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\StaticConstructor.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\StaticConstructor.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\StaticConstructor.cs",
+              "RelativeToolTip": "OopsConcepts\\StaticConstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:14:33.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constructor.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\Constructor.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\Constructor.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\Constructor.cs",
+              "RelativeToolTip": "OopsConcepts\\Constructor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:05:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OverloadEx.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\OverloadEx.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\OverloadEx.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\OverloadEx.cs",
+              "RelativeToolTip": "OopsConcepts\\OverloadEx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:53:21.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OopsConcepts",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\OopsConcepts.csproj",
+              "RelativeDocumentMoniker": "OopsConcepts\\OopsConcepts.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\OopsConcepts.csproj*",
+              "RelativeToolTip": "OopsConcepts\\OopsConcepts.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T12:50:54.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MethodOverloading.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\MethodOverloading.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\MethodOverloading.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\MethodOverloading.cs",
+              "RelativeToolTip": "OopsConcepts\\MethodOverloading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:48:20.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\Program.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\OopsConcepts\\OopsConcepts\\Program.cs",
+              "RelativeToolTip": "OopsConcepts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:47:24.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

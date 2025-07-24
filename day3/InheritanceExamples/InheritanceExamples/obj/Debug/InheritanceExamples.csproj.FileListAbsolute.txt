@@ -1,0 +1,8 @@
+C:\Users\Charishma Gada\Wipro\day3\InheritanceExamples\InheritanceExamples\bin\Debug\InheritanceExamples.exe.config
+C:\Users\Charishma Gada\Wipro\day3\InheritanceExamples\InheritanceExamples\bin\Debug\InheritanceExamples.exe
+C:\Users\Charishma Gada\Wipro\day3\InheritanceExamples\InheritanceExamples\bin\Debug\InheritanceExamples.pdb
+C:\Users\Charishma Gada\Wipro\day3\InheritanceExamples\InheritanceExamples\obj\Debug\InheritanceExamples.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day3\InheritanceExamples\InheritanceExamples\obj\Debug\InheritanceExamples.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day3\InheritanceExamples\InheritanceExamples\obj\Debug\InheritanceExamples.exe
+C:\Users\Charishma Gada\Wipro\day3\InheritanceExamples\InheritanceExamples\obj\Debug\InheritanceExamples.pdb
+C:\Users\Charishma Gada\Wipro\day3\InheritanceExamples\InheritanceExamples\obj\Debug\InheritanceExamples.exe.config

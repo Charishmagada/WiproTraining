@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|c:\\users\\charishma gada\\wipro\\day3\\inheritanceexamples\\inheritanceexamples\\shadowex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|solutionrelative:inheritanceexamples\\shadowex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|c:\\users\\charishma gada\\wipro\\day3\\inheritanceexamples\\inheritanceexamples\\firstshadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|solutionrelative:inheritanceexamples\\firstshadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|c:\\users\\charishma gada\\wipro\\day3\\inheritanceexamples\\inheritanceexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|solutionrelative:inheritanceexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|c:\\users\\charishma gada\\wipro\\day3\\inheritanceexamples\\inheritanceexamples\\secondshadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|solutionrelative:inheritanceexamples\\secondshadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|InheritanceExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|c:\\users\\charishma gada\\wipro\\day3\\inheritanceexamples\\inheritanceexamples\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|solutionrelative:inheritanceexamples\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|c:\\users\\charishma gada\\wipro\\day3\\inheritanceexamples\\inheritanceexamples\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|solutionrelative:inheritanceexamples\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683CC6B6-C79B-41C2-A678-04F059A03F87}|InheritanceExamples\\InheritanceExamples.csproj|c:\\users\\charishma gada\\wipro\\day3\\inheritanceexamples\\inheritanceexamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InheritanceExamples",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\InheritanceExamples.csproj",
+              "RelativeDocumentMoniker": "InheritanceExamples\\InheritanceExamples.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\InheritanceExamples.csproj*",
+              "RelativeToolTip": "InheritanceExamples\\InheritanceExamples.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T16:36:08.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Secondshadow.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\Secondshadow.cs",
+              "RelativeDocumentMoniker": "InheritanceExamples\\Secondshadow.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\Secondshadow.cs",
+              "RelativeToolTip": "InheritanceExamples\\Secondshadow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:25:58.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Firstshadow.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\Firstshadow.cs",
+              "RelativeDocumentMoniker": "InheritanceExamples\\Firstshadow.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\Firstshadow.cs",
+              "RelativeToolTip": "InheritanceExamples\\Firstshadow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:24:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShadowEx.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\ShadowEx.cs",
+              "RelativeDocumentMoniker": "InheritanceExamples\\ShadowEx.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\ShadowEx.cs",
+              "RelativeToolTip": "InheritanceExamples\\ShadowEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:22:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Second.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\Second.cs",
+              "RelativeDocumentMoniker": "InheritanceExamples\\Second.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\Second.cs",
+              "RelativeToolTip": "InheritanceExamples\\Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:08:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "First.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\First.cs",
+              "RelativeDocumentMoniker": "InheritanceExamples\\First.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\First.cs",
+              "RelativeToolTip": "InheritanceExamples\\First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:07:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceExamples\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\InheritanceExamples\\InheritanceExamples\\Program.cs",
+              "RelativeToolTip": "InheritanceExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:58:17.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

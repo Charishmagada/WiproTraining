@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AppDemo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|c:\\users\\charishma gada\\wipro\\day3\\appdemo\\appdemo\\callbyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\callbyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|c:\\users\\charishma gada\\wipro\\day3\\appdemo\\appdemo\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|c:\\users\\charishma gada\\wipro\\day3\\appdemo\\appdemo\\jaggedarrayex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\jaggedarrayex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|c:\\users\\charishma gada\\wipro\\day3\\appdemo\\appdemo\\jaggedarraycustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\jaggedarraycustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|c:\\users\\charishma gada\\wipro\\day3\\appdemo\\appdemo\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|c:\\users\\charishma gada\\wipro\\day3\\appdemo\\appdemo\\matrixcustominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\matrixcustominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\appdemo\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\appdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF010E-DE59-4EE9-BB44-736413681DFC}|AppDemo\\AppDemo.csproj|c:\\users\\charishma gada\\wipro\\day3\\appdemo\\appdemo\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallByReference.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\CallByReference.cs",
+              "RelativeDocumentMoniker": "AppDemo\\CallByReference.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\CallByReference.cs",
+              "RelativeToolTip": "AppDemo\\CallByReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:54:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\Query.cs",
+              "RelativeDocumentMoniker": "AppDemo\\Query.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\Query.cs",
+              "RelativeToolTip": "AppDemo\\Query.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:42:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JaggedArrayEx.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\JaggedArrayEx.cs",
+              "RelativeDocumentMoniker": "AppDemo\\JaggedArrayEx.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\JaggedArrayEx.cs",
+              "RelativeToolTip": "AppDemo\\JaggedArrayEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:02:12.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JaggedArrayCustom.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\JaggedArrayCustom.cs",
+              "RelativeDocumentMoniker": "AppDemo\\JaggedArrayCustom.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\JaggedArrayCustom.cs",
+              "RelativeToolTip": "AppDemo\\JaggedArrayCustom.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:19:04.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JaggedArray.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\JaggedArray.cs",
+              "RelativeDocumentMoniker": "AppDemo\\JaggedArray.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\JaggedArray.cs",
+              "RelativeToolTip": "AppDemo\\JaggedArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:59:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatrixCustomInput.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\MatrixCustomInput.cs",
+              "RelativeDocumentMoniker": "AppDemo\\MatrixCustomInput.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\MatrixCustomInput.cs",
+              "RelativeToolTip": "AppDemo\\MatrixCustomInput.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:27:40.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDemo",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\AppDemo.csproj",
+              "RelativeDocumentMoniker": "AppDemo\\AppDemo.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\AppDemo.csproj*",
+              "RelativeToolTip": "AppDemo\\AppDemo.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T07:29:42.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\Matrix.cs",
+              "RelativeDocumentMoniker": "AppDemo\\Matrix.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\Matrix.cs",
+              "RelativeToolTip": "AppDemo\\Matrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:23:55.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AppDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day3\\AppDemo\\AppDemo\\Program.cs",
+              "RelativeToolTip": "AppDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:13:24.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

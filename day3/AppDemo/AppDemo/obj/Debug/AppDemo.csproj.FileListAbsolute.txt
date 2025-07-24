@@ -1,0 +1,8 @@
+C:\Users\Charishma Gada\Wipro\day3\AppDemo\AppDemo\bin\Debug\AppDemo.exe.config
+C:\Users\Charishma Gada\Wipro\day3\AppDemo\AppDemo\bin\Debug\AppDemo.exe
+C:\Users\Charishma Gada\Wipro\day3\AppDemo\AppDemo\bin\Debug\AppDemo.pdb
+C:\Users\Charishma Gada\Wipro\day3\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day3\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day3\AppDemo\AppDemo\obj\Debug\AppDemo.exe
+C:\Users\Charishma Gada\Wipro\day3\AppDemo\AppDemo\obj\Debug\AppDemo.pdb
+C:\Users\Charishma Gada\Wipro\day3\AppDemo\AppDemo\obj\Debug\AppDemo.exe.config

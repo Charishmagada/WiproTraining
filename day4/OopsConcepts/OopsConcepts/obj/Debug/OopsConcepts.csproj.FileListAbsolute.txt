@@ -1,0 +1,8 @@
+C:\Users\Charishma Gada\Wipro\day4\OopsConcepts\OopsConcepts\bin\Debug\OopsConcepts.exe.config
+C:\Users\Charishma Gada\Wipro\day4\OopsConcepts\OopsConcepts\bin\Debug\OopsConcepts.exe
+C:\Users\Charishma Gada\Wipro\day4\OopsConcepts\OopsConcepts\bin\Debug\OopsConcepts.pdb
+C:\Users\Charishma Gada\Wipro\day4\OopsConcepts\OopsConcepts\obj\Debug\OopsConcepts.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day4\OopsConcepts\OopsConcepts\obj\Debug\OopsConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day4\OopsConcepts\OopsConcepts\obj\Debug\OopsConcepts.exe
+C:\Users\Charishma Gada\Wipro\day4\OopsConcepts\OopsConcepts\obj\Debug\OopsConcepts.pdb
+C:\Users\Charishma Gada\Wipro\day4\OopsConcepts\OopsConcepts\obj\Debug\OopsConcepts.exe.config

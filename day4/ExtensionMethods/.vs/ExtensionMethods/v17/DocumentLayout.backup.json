@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D821022E-E09B-43FD-A7AF-5CCA2FB1D298}|..\\ExtensionExample2\\ExtensionExample2.csproj|c:\\users\\charishma gada\\wipro\\day4\\extensionexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExtensionExample2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BB4BB3-ADF7-42BD-90CE-1FF0B1D0B3FA}|..\\ExtensionLibrary\\ExtensionLibrary.csproj|c:\\users\\charishma gada\\wipro\\day4\\extensionlibrary\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E028EAE-E8CB-413F-802B-8815126582D8}|ExtensionMethods\\ExtensionMethods.csproj|C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E028EAE-E8CB-413F-802B-8815126582D8}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E028EAE-E8CB-413F-802B-8815126582D8}|ExtensionMethods\\ExtensionMethods.csproj|C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\extensionmethods\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E028EAE-E8CB-413F-802B-8815126582D8}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExtensionMethods||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E028EAE-E8CB-413F-802B-8815126582D8}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\charishma gada\\wipro\\day4\\extensionmethods\\extensionmethods\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E028EAE-E8CB-413F-802B-8815126582D8}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E028EAE-E8CB-413F-802B-8815126582D8}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\charishma gada\\wipro\\day4\\extensionmethods\\extensionmethods\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D821022E-E09B-43FD-A7AF-5CCA2FB1D298}|..\\ExtensionExample2\\ExtensionExample2.csproj|c:\\users\\charishma gada\\wipro\\day4\\extensionexample2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionExample2",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionExample2\\ExtensionExample2.csproj",
+              "RelativeDocumentMoniker": "..\\ExtensionExample2\\ExtensionExample2.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionExample2\\ExtensionExample2.csproj*",
+              "RelativeToolTip": "..\\ExtensionExample2\\ExtensionExample2.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T08:03:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionExample2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExtensionExample2\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionExample2\\Program.cs",
+              "RelativeToolTip": "..\\ExtensionExample2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:00:06.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionLibrary\\Operations.cs",
+              "RelativeDocumentMoniker": "..\\ExtensionLibrary\\Operations.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionLibrary\\Operations.cs",
+              "RelativeToolTip": "..\\ExtensionLibrary\\Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:55:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\ExtensionMethods\\Extension.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Extension.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\ExtensionMethods\\Extension.cs",
+              "RelativeToolTip": "ExtensionMethods\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:19:54.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtensionMethods",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\ExtensionMethods\\ExtensionMethods.csproj",
+              "RelativeDocumentMoniker": "ExtensionMethods\\ExtensionMethods.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\ExtensionMethods\\ExtensionMethods.csproj*",
+              "RelativeToolTip": "ExtensionMethods\\ExtensionMethods.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T06:18:30.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\ExtensionMethods\\Calculation.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Calculation.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\ExtensionMethods\\Calculation.cs",
+              "RelativeToolTip": "ExtensionMethods\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:14:06.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day4\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "ExtensionMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:05:04.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

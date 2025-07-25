@@ -1,0 +1,8 @@
+C:\Users\Charishma Gada\Wipro\day4\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Charishma Gada\Wipro\day4\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\Charishma Gada\Wipro\day4\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Charishma Gada\Wipro\day4\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day4\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day4\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\Charishma Gada\Wipro\day4\Abstract\Abstract\obj\Debug\Abstract.pdb
+C:\Users\Charishma Gada\Wipro\day4\Abstract\Abstract\obj\Debug\Abstract.exe.config

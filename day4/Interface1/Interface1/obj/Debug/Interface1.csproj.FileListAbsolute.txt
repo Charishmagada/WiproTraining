@@ -1,0 +1,8 @@
+C:\Users\Charishma Gada\Wipro\day4\Interface1\Interface1\bin\Debug\Interface1.exe.config
+C:\Users\Charishma Gada\Wipro\day4\Interface1\Interface1\bin\Debug\Interface1.exe
+C:\Users\Charishma Gada\Wipro\day4\Interface1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\Charishma Gada\Wipro\day4\Interface1\Interface1\obj\Debug\Interface1.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day4\Interface1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day4\Interface1\Interface1\obj\Debug\Interface1.exe
+C:\Users\Charishma Gada\Wipro\day4\Interface1\Interface1\obj\Debug\Interface1.pdb
+C:\Users\Charishma Gada\Wipro\day4\Interface1\Interface1\obj\Debug\Interface1.exe.config

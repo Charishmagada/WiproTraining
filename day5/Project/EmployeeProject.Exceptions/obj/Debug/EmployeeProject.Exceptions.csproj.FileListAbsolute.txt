@@ -1,0 +1,6 @@
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Exceptions\bin\Debug\EmployeeProject.Exceptions.dll
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Exceptions\bin\Debug\EmployeeProject.Exceptions.pdb
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Exceptions\obj\Debug\EmployeeProject.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Exceptions\obj\Debug\EmployeeProject.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Exceptions\obj\Debug\EmployeeProject.Exceptions.dll
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Exceptions\obj\Debug\EmployeeProject.Exceptions.pdb

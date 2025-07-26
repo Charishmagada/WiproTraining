@@ -1,0 +1,17 @@
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\obj\Debug\EmployeeProject.Main.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\obj\Debug\EmployeeProject.Main.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Main.exe.config
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Main.exe
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Main.pdb
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Bal.dll
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Exceptions.dll
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProjects.Models.dll
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Dao.dll
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Bal.pdb
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Exceptions.pdb
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProjects.Models.pdb
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\bin\Debug\EmployeeProject.Dao.pdb
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\obj\Debug\Employee.EB2B1334.Up2Date
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\obj\Debug\EmployeeProject.Main.exe
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\obj\Debug\EmployeeProject.Main.pdb
+C:\Users\Charishma Gada\Wipro\day5\Project\EmployeeProject.Main\obj\Debug\EmployeeProject.Main.exe.config

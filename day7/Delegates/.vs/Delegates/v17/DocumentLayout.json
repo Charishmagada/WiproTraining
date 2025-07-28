@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\predicatedeligate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\predicatedeligate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\functiondelegate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\functiondelegate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Delegates||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\functiondelegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\functiondelegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\functiondelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\functiondelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\delegateanonymous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\delegateanonymous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\actiondelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\actiondelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\singlecastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\singlecastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\delegatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\delegatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\multicastdelegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\multicastdelegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|solutionrelative:delegates\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A55D9B-8D36-4114-BC61-D53D95896327}|Delegates\\Delegates.csproj|c:\\users\\charishma gada\\wipro\\day7\\delegates\\delegates\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PredicateDeligate.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\PredicateDeligate.cs",
+              "RelativeDocumentMoniker": "Delegates\\PredicateDeligate.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\PredicateDeligate.cs*",
+              "RelativeToolTip": "Delegates\\PredicateDeligate.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:32:29.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FunctionDelegate2.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\FunctionDelegate2.cs",
+              "RelativeDocumentMoniker": "Delegates\\FunctionDelegate2.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\FunctionDelegate2.cs",
+              "RelativeToolTip": "Delegates\\FunctionDelegate2.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:08:18.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FunctionDelegate1.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\FunctionDelegate1.cs",
+              "RelativeDocumentMoniker": "Delegates\\FunctionDelegate1.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\FunctionDelegate1.cs",
+              "RelativeToolTip": "Delegates\\FunctionDelegate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:28:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\FunctionDelegate.cs",
+              "RelativeDocumentMoniker": "Delegates\\FunctionDelegate.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\FunctionDelegate.cs",
+              "RelativeToolTip": "Delegates\\FunctionDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:20:39.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActionDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\ActionDelegate.cs",
+              "RelativeDocumentMoniker": "Delegates\\ActionDelegate.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\ActionDelegate.cs",
+              "RelativeToolTip": "Delegates\\ActionDelegate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:30:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateAnonymous.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\DelegateAnonymous.cs",
+              "RelativeDocumentMoniker": "Delegates\\DelegateAnonymous.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\DelegateAnonymous.cs",
+              "RelativeToolTip": "Delegates\\DelegateAnonymous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:21:30.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delegates",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\Delegates.csproj",
+              "RelativeDocumentMoniker": "Delegates\\Delegates.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\Delegates.csproj",
+              "RelativeToolTip": "Delegates\\Delegates.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T05:17:33.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DelegateArray.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\DelegateArray.cs",
+              "RelativeDocumentMoniker": "Delegates\\DelegateArray.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\DelegateArray.cs",
+              "RelativeToolTip": "Delegates\\DelegateArray.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:58:02.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MultiCastDelegate1.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\MultiCastDelegate1.cs",
+              "RelativeDocumentMoniker": "Delegates\\MultiCastDelegate1.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\MultiCastDelegate1.cs",
+              "RelativeToolTip": "Delegates\\MultiCastDelegate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:40:09.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MultiCastDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\MultiCastDelegate.cs",
+              "RelativeDocumentMoniker": "Delegates\\MultiCastDelegate.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\MultiCastDelegate.cs",
+              "RelativeToolTip": "Delegates\\MultiCastDelegate.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:24:35.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingleCastDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\SingleCastDelegate.cs",
+              "RelativeDocumentMoniker": "Delegates\\SingleCastDelegate.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\SingleCastDelegate.cs",
+              "RelativeToolTip": "Delegates\\SingleCastDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:19:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DelegateExample.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\DelegateExample.cs",
+              "RelativeDocumentMoniker": "Delegates\\DelegateExample.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\Delegates\\Delegates\\DelegateExample.cs",
+              "RelativeToolTip": "Delegates\\DelegateExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:05:59.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

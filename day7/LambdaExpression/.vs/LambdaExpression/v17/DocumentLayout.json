@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|c:\\users\\charishma gada\\wipro\\day7\\lambdaexpression\\lambdaexpression\\employeesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\employeesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LambdaExpression||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|c:\\users\\charishma gada\\wipro\\day7\\lambdaexpression\\lambdaexpression\\namecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\namecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|c:\\users\\charishma gada\\wipro\\day7\\lambdaexpression\\lambdaexpression\\lambdaexp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\lambdaexp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|c:\\users\\charishma gada\\wipro\\day7\\lambdaexpression\\lambdaexpression\\basiccomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\basiccomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|c:\\users\\charishma gada\\wipro\\day7\\lambdaexpression\\lambdaexpression\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|c:\\users\\charishma gada\\wipro\\day7\\lambdaexpression\\lambdaexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4495FF90-C6FE-4619-AEFE-77CA75FF9900}|LambdaExpression\\LambdaExpression.csproj|c:\\users\\charishma gada\\wipro\\day7\\lambdaexpression\\lambdaexpression\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\BasicComparer.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\BasicComparer.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\BasicComparer.cs",
+              "RelativeToolTip": "LambdaExpression\\BasicComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:31:53.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\NameComparer.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\NameComparer.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\NameComparer.cs",
+              "RelativeToolTip": "LambdaExpression\\NameComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:30:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeSort.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\EmployeeSort.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\EmployeeSort.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\EmployeeSort.cs",
+              "RelativeToolTip": "LambdaExpression\\EmployeeSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:28:43.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LambdaExpression",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\LambdaExpression.csproj",
+              "RelativeDocumentMoniker": "LambdaExpression\\LambdaExpression.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\LambdaExpression.csproj",
+              "RelativeToolTip": "LambdaExpression\\LambdaExpression.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T11:23:14.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LambdaExp1.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\LambdaExp1.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\LambdaExp1.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\LambdaExp1.cs",
+              "RelativeToolTip": "LambdaExpression\\LambdaExp1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:06:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\Employee.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\Employee.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\Employee.cs",
+              "RelativeToolTip": "LambdaExpression\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:00:20.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day7\\LambdaExpression\\LambdaExpression\\Program.cs",
+              "RelativeToolTip": "LambdaExpression\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:57:35.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

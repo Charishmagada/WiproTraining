@@ -1,0 +1,8 @@
+C:\Users\Charishma Gada\Wipro\day5\ExceptionFilters\ExceptionFilters\bin\Debug\ExceptionFilters.exe.config
+C:\Users\Charishma Gada\Wipro\day5\ExceptionFilters\ExceptionFilters\bin\Debug\ExceptionFilters.exe
+C:\Users\Charishma Gada\Wipro\day5\ExceptionFilters\ExceptionFilters\bin\Debug\ExceptionFilters.pdb
+C:\Users\Charishma Gada\Wipro\day5\ExceptionFilters\ExceptionFilters\obj\Debug\ExceptionFilters.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day5\ExceptionFilters\ExceptionFilters\obj\Debug\ExceptionFilters.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day5\ExceptionFilters\ExceptionFilters\obj\Debug\ExceptionFilters.exe
+C:\Users\Charishma Gada\Wipro\day5\ExceptionFilters\ExceptionFilters\obj\Debug\ExceptionFilters.pdb
+C:\Users\Charishma Gada\Wipro\day5\ExceptionFilters\ExceptionFilters\obj\Debug\ExceptionFilters.exe.config

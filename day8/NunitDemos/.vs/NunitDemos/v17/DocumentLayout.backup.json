@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E2F013-485F-432F-A84D-0574642ADCDA}|..\\NUnitDemos.Test\\NUnitDemos.Test.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos.test\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos\\nunitdemos\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|solutionrelative:nunitdemos\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos\\nunitdemos\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|solutionrelative:nunitdemos\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E2F013-485F-432F-A84D-0574642ADCDA}|..\\NUnitDemos.Test\\NUnitDemos.Test.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E2F013-485F-432F-A84D-0574642ADCDA}|..\\NUnitDemos.Test\\NUnitDemos.Test.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos.test\\demotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos\\nunitdemos\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|solutionrelative:nunitdemos\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NunitDemos||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E2F013-485F-432F-A84D-0574642ADCDA}|..\\NUnitDemos.Test\\NUnitDemos.Test.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos.test\\nunitdemos.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos\\nunitdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|solutionrelative:nunitdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7D97E6-2413-44BB-B523-3843728C34DB}|NunitDemos\\NunitDemos.csproj|c:\\users\\charishma gada\\wipro\\day8\\nunitdemos\\nunitdemos\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NUnitDemos.Test\\EmployeeTest.cs",
+              "RelativeDocumentMoniker": "..\\NUnitDemos.Test\\EmployeeTest.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NUnitDemos.Test\\EmployeeTest.cs",
+              "RelativeToolTip": "..\\NUnitDemos.Test\\EmployeeTest.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwDYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:32:52.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDao.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\EmployeeDao.cs",
+              "RelativeDocumentMoniker": "NunitDemos\\EmployeeDao.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\EmployeeDao.cs",
+              "RelativeToolTip": "NunitDemos\\EmployeeDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:21:55.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\Employee.cs",
+              "RelativeDocumentMoniker": "NunitDemos\\Employee.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\Employee.cs*",
+              "RelativeToolTip": "NunitDemos\\Employee.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:16:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NUnitDemos.Test",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NUnitDemos.Test\\NUnitDemos.Test.csproj",
+              "RelativeDocumentMoniker": "..\\NUnitDemos.Test\\NUnitDemos.Test.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NUnitDemos.Test\\NUnitDemos.Test.csproj",
+              "RelativeToolTip": "..\\NUnitDemos.Test\\NUnitDemos.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T09:58:54.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoTest.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NUnitDemos.Test\\DemoTest.cs",
+              "RelativeDocumentMoniker": "..\\NUnitDemos.Test\\DemoTest.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NUnitDemos.Test\\DemoTest.cs",
+              "RelativeToolTip": "..\\NUnitDemos.Test\\DemoTest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:50:07.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NUnitDemos.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NUnitDemos.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NUnitDemos.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NUnitDemos.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:48:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NunitDemos",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\NunitDemos.csproj",
+              "RelativeDocumentMoniker": "NunitDemos\\NunitDemos.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\NunitDemos.csproj",
+              "RelativeToolTip": "NunitDemos\\NunitDemos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-29T09:36:34.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\Demo.cs",
+              "RelativeDocumentMoniker": "NunitDemos\\Demo.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\Demo.cs",
+              "RelativeToolTip": "NunitDemos\\Demo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:36:02.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\Program.cs",
+              "RelativeDocumentMoniker": "NunitDemos\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day8\\NunitDemos\\NunitDemos\\Program.cs",
+              "RelativeToolTip": "NunitDemos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:35:09.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

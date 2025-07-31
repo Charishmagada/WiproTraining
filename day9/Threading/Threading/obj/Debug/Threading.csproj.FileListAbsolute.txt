@@ -1,0 +1,8 @@
+C:\Users\Charishma Gada\Wipro\day9\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\Charishma Gada\Wipro\day9\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\Charishma Gada\Wipro\day9\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\Charishma Gada\Wipro\day9\Threading\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day9\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day9\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\Charishma Gada\Wipro\day9\Threading\Threading\obj\Debug\Threading.pdb
+C:\Users\Charishma Gada\Wipro\day9\Threading\Threading\obj\Debug\Threading.exe.config

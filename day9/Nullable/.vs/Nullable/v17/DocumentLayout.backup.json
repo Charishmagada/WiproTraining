@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|c:\\users\\charishma gada\\wipro\\day9\\nullable\\nullable\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|solutionrelative:nullable\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|c:\\users\\charishma gada\\wipro\\day9\\nullable\\nullable\\indexer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|solutionrelative:nullable\\indexer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|c:\\users\\charishma gada\\wipro\\day9\\nullable\\nullable\\indexer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|solutionrelative:nullable\\indexer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|c:\\users\\charishma gada\\wipro\\day9\\nullable\\nullable\\nullablecoalesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|solutionrelative:nullable\\nullablecoalesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Nullable||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|c:\\users\\charishma gada\\wipro\\day9\\nullable\\nullable\\employeenullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|solutionrelative:nullable\\employeenullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|c:\\users\\charishma gada\\wipro\\day9\\nullable\\nullable\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|solutionrelative:nullable\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|c:\\users\\charishma gada\\wipro\\day9\\nullable\\nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|solutionrelative:nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBE6761-E87F-42DA-87E6-EED23C24C546}|Nullable\\Nullable.csproj|c:\\users\\charishma gada\\wipro\\day9\\nullable\\nullable\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Emp.cs",
+              "RelativeDocumentMoniker": "Nullable\\Emp.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Emp.cs*",
+              "RelativeToolTip": "Nullable\\Emp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:08:15.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Indexer2.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Indexer2.cs",
+              "RelativeDocumentMoniker": "Nullable\\Indexer2.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Indexer2.cs",
+              "RelativeToolTip": "Nullable\\Indexer2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:06:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Indexer1.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Indexer1.cs",
+              "RelativeDocumentMoniker": "Nullable\\Indexer1.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Indexer1.cs",
+              "RelativeToolTip": "Nullable\\Indexer1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:02:59.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nullable",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Nullable.csproj",
+              "RelativeDocumentMoniker": "Nullable\\Nullable.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Nullable.csproj",
+              "RelativeToolTip": "Nullable\\Nullable.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T05:47:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NullableCoalesc.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\NullableCoalesc.cs",
+              "RelativeDocumentMoniker": "Nullable\\NullableCoalesc.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\NullableCoalesc.cs",
+              "RelativeToolTip": "Nullable\\NullableCoalesc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:45:20.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeNullable.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\EmployeeNullable.cs",
+              "RelativeDocumentMoniker": "Nullable\\EmployeeNullable.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\EmployeeNullable.cs",
+              "RelativeToolTip": "Nullable\\EmployeeNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:21:13.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Employee.cs",
+              "RelativeDocumentMoniker": "Nullable\\Employee.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Employee.cs",
+              "RelativeToolTip": "Nullable\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:14:42.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Program.cs",
+              "RelativeDocumentMoniker": "Nullable\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day9\\Nullable\\Nullable\\Program.cs",
+              "RelativeToolTip": "Nullable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:09:50.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

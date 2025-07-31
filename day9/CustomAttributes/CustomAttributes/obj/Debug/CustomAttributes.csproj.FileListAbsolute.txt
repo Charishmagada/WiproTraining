@@ -1,0 +1,8 @@
+C:\Users\Charishma Gada\Wipro\day9\CustomAttributes\CustomAttributes\bin\Debug\CustomAttributes.exe.config
+C:\Users\Charishma Gada\Wipro\day9\CustomAttributes\CustomAttributes\bin\Debug\CustomAttributes.exe
+C:\Users\Charishma Gada\Wipro\day9\CustomAttributes\CustomAttributes\bin\Debug\CustomAttributes.pdb
+C:\Users\Charishma Gada\Wipro\day9\CustomAttributes\CustomAttributes\obj\Debug\CustomAttributes.csproj.AssemblyReference.cache
+C:\Users\Charishma Gada\Wipro\day9\CustomAttributes\CustomAttributes\obj\Debug\CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Charishma Gada\Wipro\day9\CustomAttributes\CustomAttributes\obj\Debug\CustomAttributes.exe
+C:\Users\Charishma Gada\Wipro\day9\CustomAttributes\CustomAttributes\obj\Debug\CustomAttributes.pdb
+C:\Users\Charishma Gada\Wipro\day9\CustomAttributes\CustomAttributes\obj\Debug\CustomAttributes.exe.config

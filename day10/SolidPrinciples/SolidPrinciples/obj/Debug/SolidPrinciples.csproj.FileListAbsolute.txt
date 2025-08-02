@@ -1,8 +1,0 @@
-C:\Users\Charishma Gada\Wipro\day10\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
-C:\Users\Charishma Gada\Wipro\day10\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe
-C:\Users\Charishma Gada\Wipro\day10\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
-C:\Users\Charishma Gada\Wipro\day10\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.AssemblyReference.cache
-C:\Users\Charishma Gada\Wipro\day10\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.CoreCompileInputs.cache
-C:\Users\Charishma Gada\Wipro\day10\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe
-C:\Users\Charishma Gada\Wipro\day10\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.pdb
-C:\Users\Charishma Gada\Wipro\day10\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe.config

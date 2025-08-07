@@ -3,16 +3,16 @@
         <script>
             function show()
             {
-                var sname = formData.sname.value;
-                alert("Student Name is  " +sname);
+                let sname=formData.sname.value;
+                alert("Student name is "+sname);
             }
         </script>
+        <body>
+            <form name="formData">
+                Enter name:
+                <input type="text" name="sname"/></br>
+                <input type="button" value="show" onclick="show()"/>
+            </form>
+        </body>
     </head>
-<body>
-    <form name="formData">
-        Enter Name : 
-        <input type="text" name="sname" /> <br/><br/>
-        <input type="button" value="Show" onclick="show()" />
-    </form>
-</body>
 </html>

@@ -1,4 +1,4 @@
-<html>
+<!--<html>
     <head>
         <script>
             function status()
@@ -25,4 +25,22 @@
         </center>
     </form>
 </body>
+</html>
+-->
+<html>
+    <body>
+        <form name="frmData">
+            Status : 
+            <input type="checkbox" name="chkStatus" onchange="status()"/> <br/><br/>
+            <p id="result"></p>
+        </form>
+        <script>
+            function status()
+            {
+                const checkbox=document.querySelector('input[name="chkStatus"]');
+                const result=checkbox.checked?"Present":"absent";
+                document.getElementById("result").innerHTML=result;
+            }
+        </script>
+    </body>
 </html>

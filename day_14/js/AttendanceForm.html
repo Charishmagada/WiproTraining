@@ -1,40 +1,35 @@
-
 <html>
-    <head>
+    <head></head>
+    <body>
+        <form name="attendance">
+            Arya:
+            <input type="checkbox" name="checkArya" onchange="show()"/></br>
+            Aslesha:
+            <input type="checkbox" name="checkAslesha" onchange="show()"/></br>
+            Ayan:
+            <input type="checkbox" name="checkAyan" onchange="show()"/><br>
+            <p id="attend"></p>
+        </form>
         <script>
-            function show() {
-                var result = "";
-                if (frmAttendance.chkNarayana.checked == true) {
-                    result += "Narayana is Present...<br/>".fontcolor("green");
-                } else {
-                    result += "Narayana is Absent...<br/>".fontcolor("red");
-                }
-                if (frmAttendance.chkAnusha.checked == true){
-                    result += "Anusha is Present...<br/>".fontcolor("green");
-                } else {
-                    result += "Anusha is Absent...<br/>".fontcolor("red");
-                }
-                if (frmAttendance.chkUday.checked == true) {
-                    result += "Uday is Present...<br/>".fontcolor("green");
-                } else {
-                    result += "Uday is Absent...<br/>".fontcolor("red");
-                }
-                document.getElementById("attendance").innerHTML = result;
+            function show()
+            {
+                let result="";
+                const Arya=document.querySelector('input[name="checkArya"]');
+                const Aslesha=document.querySelector('input[name="checkAslesha"]');
+                const Ayan=document.querySelector('input[name="checkAyan"]');
+                result+=Arya.checked
+                ?'<span style="color:green;">Arya is Present</span></br>'
+                :'<span style="color:red;">Arya is Absent</span></br>';
+                result+=Aslesha.checked
+                ?'<span style="color:green;">Aslesha is Present</span></br>'
+                :'<span style="color:red;">Aslesha is Absent</span></br>';
+                result+=Ayan.checked
+                ?'<span style="color:green;">Ayan is Present</span></br>'
+                :'<span style="color:red;">Ayan is Absent</span></br>';
+
+                document.getElementById("attend").innerHTML=result;
+
             }
         </script>
-    </head>
-<body>
-    <form name="frmAttendance">
-        <center>
-            Narayana : 
-            <input type="checkbox" name="chkNarayana" onchange="show()" /> <br/><br/>
-            Anusha : 
-            <input type="checkbox" name="chkAnusha" onchange="show()" /> <br/><br/>
-            Uday : 
-            <input type="checkbox" name="chkUday" onchange="show()" /> <br/><br/>
-            <hr/>
-            <span id="attendance"></span>
-        </center>
-    </form>
-</body>
+    </body>
 </html>

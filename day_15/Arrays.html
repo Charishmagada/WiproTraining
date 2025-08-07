@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <script>
+      function show() {
+        let res = "";
+        let myArray = ["Nandini", "Uday", "Ganesh", "Vasim", "Rajesh", "Pallavi"];
+        
+        for (let name of myArray) {
+          res += name + "<br/>";
+        }
+
+        document.getElementById("res").innerHTML = res;
+      }
+    </script>
+  </head>
+  <body onload="show()">
+    <span id="res"></span>
+  </body>
+</html>

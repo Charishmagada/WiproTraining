@@ -1,0 +1,77 @@
+<html>
+    <head>
+        <title>Simple Calculator</title>
+        <script>
+            function add()
+            {
+                const first=document.querySelector('#firstno').value.trim();
+                const second=document.querySelector('#secondno').value.trim();
+                 
+                if(first==="")
+                 {
+                    document.getElementById("error1").innerHTML="Please Enter first number";
+                    return;
+                 }else{
+                    document.getElementById("error1").innerHTML="";
+                 }
+                 if(second==="")
+                 {
+                    document.getElementById("error2").innerHTML="Please enter second number";
+                    return;
+                 }else{
+                    document.getElementById("error2").innerHTML="";
+                 }
+                 document.querySelector('#result').value=parseInt(first)+parseInt(second);   
+            }
+            function sub()
+            {
+                const first=parseInt(document.querySelector('#firstno').value);
+                const second=parseInt(document.querySelector('#secondno').value);
+                document.querySelector('#result').value=first-second;
+            }
+            function mul()
+            {
+                const first=parseInt(document.querySelector('#firstno').value);
+                const second=parseInt(document.querySelector('#secondno').value);
+                document.querySelector('#result').value=first*second;
+            }
+        </script>
+    </head>
+    <body>
+        <table border="3" align="center">
+        <tr>
+            <th colspan="2">Calculation Form</th>
+        </tr>
+        <tr>
+            <th>First Number</th>
+            <td>
+                <input type="number" id="firstNo" />
+                <span id="error1" style="color: red;"></span>
+            </td>
+        </tr>
+        <tr>
+            <th>Second Number</th>
+            <td>
+                <input type="number" id="secondNo" />
+                <span id="error2" style="color: red;"></span>
+            </td>
+        </tr>
+        <tr>
+            <th>Result</th>
+            <td>
+                <input type="number" id="result" readonly />
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">
+                <input type="button" value="Sum" onclick="add()" /> 
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="button" value="Sub" onclick="sub()" />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="button" value="Mult" onclick="mul()" />
+            </th>
+        </tr>
+    </table>
+    </body>
+
+</html>

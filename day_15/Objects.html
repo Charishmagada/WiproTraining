@@ -1,0 +1,26 @@
+<html>
+<head>
+    <script>
+        function show() {
+            let result = "";
+            let obj = new Date();
+
+            result += "Date is " + obj.getDate() + "<br/>";
+            let mon = obj.getMonth() + 1; // Months are 0-based
+            result += "Month is " + mon + "<br/>";
+            result += "Year is " + obj.getFullYear() + "<br/>";
+            result += "Hours " + obj.getHours() + "<br/>";
+            result += "Minutes " + obj.getMinutes() + "<br/>";
+            result += "Seconds " + obj.getSeconds() + "<br/>";
+
+            document.getElementById("result").innerHTML = result;
+
+            // To get specific future date (example)
+            // let future = new Date("March 31, " + obj.getFullYear());
+        }
+    </script>
+</head>
+<body onload="show()">
+    <span id="result"></span>
+</body>
+</html>

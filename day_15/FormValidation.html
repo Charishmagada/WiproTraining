@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <script>
+        function doLogin(event) {
+            event.preventDefault(); // Prevent form submission
+
+            let user = document.querySelector('input[name="userName"]').value.trim();
+            let pwd = document.querySelector('input[name="passWord"]').value.trim();
+
+            const error1 = document.getElementById("error1");
+            const error2 = document.getElementById("error2");
+
+            let valid = true;
+
+            if (user === "") {
+                error1.textContent = "Please enter User Name";
+                valid = false;
+            } else {
+                error1.textContent = "";
+            }
+
+            if (pwd === "") {
+                error2.textContent = "Please enter Password";
+                valid = false;
+            } else {
+                error2.textContent = "";
+            }
+
+            if (!valid) return;
+
+            if (user === "wipro" && pwd === "wipro") {
+                window.open("https://www.google.com", "_blank");
+            } else {
+                alert("Invalid Credentials");
+            }
+        }
+    </script>
+</head>
+<body>
+    <form onsubmit="doLogin(event)">
+        <table border="2" align="center">
+            <tr>
+                <th colspan="2">Login Page</th>
+            </tr>
+            <tr>
+                <td>User Name</td>
+                <td>
+                    <input type="text" name="userName" />
+                    <div id="error1" style="color:red"></div>
+                     
+                </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>
+                    <input type="password" name="passWord" />
+                    <div id="error2" style="color:red"></div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Login" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

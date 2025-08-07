@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>Login Page</title>
+    <script>
+        const login = () => {
+            const username = document.querySelector("#userName").value;
+            const password = document.querySelector("#passWord").value;
+
+            if (username === "wipro" && password === "wipro") {
+                alert("Login Successful!");
+            } else {
+                alert("Invalid Credentials.");
+            }
+
+            return false; // Prevents form from submitting and reloading
+        };
+    </script>
+</head>
+<body>
+    <form id="loginForm" onsubmit="return login()">
+        <table border="3" align="center">
+            <tr>
+                <th colspan="2">Login Page</th>
+            </tr>
+            <tr>
+                <th>User Name</th>
+                <td>
+                    <input type="text" id="userName" required />
+                </td>
+            </tr>
+            <tr>
+                <th>Password</th>
+                <td>
+                    <input type="password" id="passWord" required />
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">
+                    <input type="submit" value="Login" /> 
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="reset" value="Reset" />
+                </th>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Expression Evaluation</title>
+    <script>
+        function show() {
+            let result = 3 + 5 * 8 - 2 + 11;  // Operator precedence applied here
+
+            alert(result);                // Shows alert with result
+            console.log(result);          // Logs result to console
+            document.getElementById("result").innerText = result; // Shows on page
+        }
+    </script>
+</head>
+<body onload="show()">
+    <h2>Result of expression is:</h2>
+    <span id="result" style="font-weight:bold;"></span>
+</body>
+</html>

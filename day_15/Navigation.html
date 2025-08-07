@@ -1,0 +1,48 @@
+<html>
+<head>
+    <title>Interview Questions Navigator</title>
+</head>
+<body onload="load()">
+        <h2 id="question"></h2> <br/>
+        <input type="button" value="Previous" onclick="prevQuestion()" /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="button" value="Next" onclick="nextQuestion()" />
+   
+
+    <script>
+        let questions = [
+            "1. What is HTML?",
+            "2. What is JavaScript?",
+            "3. What is CSS?",
+            "4. What is Object-Oriented Programming?",
+            "5. What is TypeScript?",
+            "6. Explain about React."
+        ];
+
+        let questionNo = 0;
+        let totalQuestions = questions.length;
+
+        function load() {
+            document.getElementById("question").innerHTML = questions[questionNo];
+        }
+
+        function prevQuestion() {
+            questionNo--;
+            if (questionNo < 0) {
+                questionNo = 0;
+                alert("This is the first question.");
+            }
+            load();
+        }
+
+        function nextQuestion() {
+            questionNo++;
+            if (questionNo >= totalQuestions) {
+                questionNo = totalQuestions - 1;
+                alert("No questions after this.");
+            }
+            load();
+        }
+    </script>
+</body>
+</html>

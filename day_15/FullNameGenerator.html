@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Full Name Generator</title>
+    <script>
+        function show() {
+            const firstName = document.querySelector('#firstName').value;
+            const lastName = document.querySelector('#lastName').value;
+            document.querySelector('#fullName').value = firstName + " " + lastName;
+        }
+    </script>
+</head>
+<body>
+    <table border="2" align="center">
+        <tr>
+            <th colspan="2">Name Form</th>
+        </tr>
+        <tr>
+            <th>First Name</th>
+            <td><input type="text" id="firstName" onblur="show()"></td>
+        </tr>
+        <tr>
+            <th>Last Name</th>
+            <td><input type="text" id="lastName" onblur="show()"></td>
+        </tr>
+        <tr>
+            <th>Full Name</th>
+            <td><input type="text" id="fullName" readonly></td>
+        </tr>
+    </table>
+</body>
+</html>

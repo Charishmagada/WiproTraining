@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <script>
+      const doLogin = () => {
+        const user = document.querySelector("input[name='userName']").value;
+        const pwd = document.querySelector("input[name='passCode']").value;
+
+        if (user === "wipro" && pwd === "wipro") {
+          // Successful login
+          window.open("Menu.html", "Demo", "width=300,height=300");
+        } else {
+          // Failed login
+          const errorWindow = window.open("Error.html", "Error", "width=300,height=300");
+          setTimeout(() => {
+            errorWindow.close();
+          }, 5000);
+        }
+      };
+    </script>
+  </head>
+  <body>
+    <form onsubmit="doLogin(); return false;">
+      <center>
+        User Name:
+        <input type="text" name="userName" />
+        <br /><br />
+        Password:
+        <input type="password" name="passCode" />
+        <br /><br />
+        <input type="submit" value="Login" />
+      </center>
+    </form>
+  </body>
+</html>

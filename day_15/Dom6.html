@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sum Calculator using IDs</title>
+    <script>
+        function sum() {
+            const firstNo = parseInt(document.querySelector("#firstNo").value);
+            const secondNo = parseInt(document.querySelector("#secondNo").value);
+            const res = firstNo + secondNo;
+
+            document.getElementById("result").innerText = "Sum is: " + res;
+        }
+    </script>
+</head>
+<body>
+    <center>
+        <h2>Sum Calculator</h2>
+        <label>First Number:
+            <input type="number" id="firstNo" />
+        </label><br/><br/>
+
+        <label>Second Number:
+            <input type="number" id="secondNo" />
+        </label><br/><br/>
+
+        <input type="button" value="Calculate Sum" onclick="sum()" /><br/><br/>
+
+        <div id="result" style="font-weight:bold;"></div>
+    </center>
+</body>
+</html>

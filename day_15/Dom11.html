@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <script>
+      const show = () => {
+        // Open a blank popup window named "MsgWindow" with width and height
+        const myWindow = window.open("", "MsgWindow", "width=200,height=200");
+
+        // Write dynamic HTML content into the popup window using template literals
+        myWindow.document.writeln(`<p>This is Sample Popup Window!</p>`);
+        myWindow.document.writeln(`<p>This is From GL Dotnet batch</p>`);
+
+        // Close the popup window after 5 seconds
+        setTimeout(() => {
+          myWindow.close();
+        }, 5000);
+      };
+    </script>
+  </head>
+  <body>
+    <input type="button" value="Show Window" onclick="show()" />
+  </body>
+</html>

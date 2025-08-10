@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>Login Page</title>
+    <script>
+        function doLogin() {
+            "use strict";
+
+            const userData = [
+                {userName: "Siri", passCode: "Siri"},
+                {userName: "Padma", passCode: "Padma"},
+                {userName: "Vijju", passCode: "Vijju"},
+                {userName: "Chinna", passCode: "Chinna"}
+            ];
+
+            // Using querySelector to access input values
+            const user = document.querySelector("input[name='userName']").value;
+            const pwd = document.querySelector("input[name='passWord']").value;
+
+            let flag = false;
+
+            for (let i = 0; i < userData.length; i++) {
+                if (userData[i].userName === user && userData[i].passCode === pwd) {
+                    console.log("Login Success");
+                    flag = true;
+                    break;
+                }
+            }
+
+            if (flag) {
+                window.location.href = "https://www.google.com";
+            } else {
+                alert("Invalid Credentials");
+            }
+        }
+    </script>
+</head>
+<body>
+    <form action="javascript:doLogin()">
+        <table border="3" align="center">
+            <tr>
+                <th colspan="2">Login Page</th>
+            </tr>
+            <tr>
+                <th>User Name</th>
+                <td><input type="text" name="userName" required /></td>
+            </tr>
+            <tr>
+                <th>Password</th>
+                <td><input type="password" name="passWord" required /></td>
+            </tr>
+            <tr>
+                <th colspan="2"><input type="submit" value="Login" /></th>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

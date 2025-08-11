@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_19\\employeecrud\\employeecrud\\controllers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\controllers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_19\\employeecrud\\employeecrud\\controllers\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\controllers\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_19\\employeecrud\\employeecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_19\\employeecrud\\employeecrud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_19\\employeecrud\\employeecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{108FAE83-8950-4AB9-8EC2-FBCDC3569140}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeCrud\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:13:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\Program.cs",
+              "RelativeToolTip": "EmployeeCrud\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:35:13.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\appsettings.json",
+              "RelativeToolTip": "EmployeeCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T10:30:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\Controllers\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Controllers\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\Controllers\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeCrud\\Controllers\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:30:39.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\Controllers\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Controllers\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_19\\EmployeeCrud\\EmployeeCrud\\Controllers\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "EmployeeCrud\\Controllers\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:29:39.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Middleware\\DecryptionHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankProjectCore\\Middleware\\DecryptionHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\bankprojectcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\bankprojectcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankProjectCore\\Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\charishma gada\\wipro\\day_21\\bankprojectcore\\bankprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BC00027-A3EC-4441-9177-404C490688DB}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "BankProjectCore\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:35:58.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:35:25.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\LoginsController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Controllers\\LoginsController.cs*",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\LoginsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:30:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:28:56.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankCustomController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\BankCustomController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\BankCustomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:32:06.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:30:35.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\BankDbContext.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\BankDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:46:31.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trans.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Trans.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Trans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:57:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Models\\Account.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:43:14.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankProjectCore",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\BankProjectCore.csproj",
+              "RelativeDocumentMoniker": "BankProjectCore\\BankProjectCore.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\BankProjectCore.csproj",
+              "RelativeToolTip": "BankProjectCore\\BankProjectCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T13:44:37.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Program.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\Program.cs",
+              "RelativeToolTip": "BankProjectCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:43:58.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\appsettings.json",
+              "RelativeDocumentMoniker": "BankProjectCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_21\\BankProjectCore\\BankProjectCore\\appsettings.json",
+              "RelativeToolTip": "BankProjectCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T13:43:18.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+namespace EmployeeCrudNew.Models
+{
+    public class Employee
+    {
+        [Key]
+        public int Empno { get; set; }
+
+        [Required(ErrorMessage = "Name is required")]
+        [StringLength(20, ErrorMessage = "Name cannot exceed 50 characters")]
+        public string? Name { get; set; }
+
+        [Required(ErrorMessage = "Gender is required")]
+        [RegularExpression("^(MALE|FEMALE)$", ErrorMessage = "Gender must be Male, Female, or Other")]
+        public string? Gender { get; set; }
+
+        [Required(ErrorMessage = "Department is required")]
+        [StringLength(10, ErrorMessage = "Department cannot exceed 30 characters")]
+        public string? Dept { get; set; }
+
+        [Required(ErrorMessage = "Designation is required")]
+        [StringLength(10, ErrorMessage = "Designation cannot exceed 30 characters")]
+        public string? Desgn { get; set; }
+
+        [Required(ErrorMessage = "Basic salary is required")]
+        [Range(5000, 200000, ErrorMessage = "Basic salary must be between 5000 and 200000")]
+        public decimal? Basic { get; set; }
+    }
+}
+            

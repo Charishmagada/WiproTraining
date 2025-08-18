@@ -1,0 +1,52 @@
+﻿@page
+@model EmployeeCrud.Pages.Employees.CreateModel
+@{
+}
+<h1>Create Employee Page</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Empno" class="control-label"></label>
+                <input asp-for="Employee.Empno" class="form-control" />
+                <span asp-validation-for="Employee.Empno" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Name" class="control-label"></label>
+                <input asp-for="Employee.Name" class="form-control" />
+                <span asp-validation-for="Employee.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Gender" class="control-label"></label>
+                <input asp-for="Employee.Gender" class="form-control" />
+                <span asp-validation-for="Employee.Gender" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Dept" class="control-label"></label>
+                <input asp-for="Employee.Dept" class="form-control" />
+                <span asp-validation-for="Employee.Dept" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Desgn" class="control-label"></label>
+                <input asp-for="Employee.Desgn" class="form-control" />
+                <span asp-validation-for="Employee.Desgn" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Basic" class="control-label"></label>
+                <input asp-for="Employee.Basic" class="form-control" />
+                <span asp-validation-for="Employee.Basic" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

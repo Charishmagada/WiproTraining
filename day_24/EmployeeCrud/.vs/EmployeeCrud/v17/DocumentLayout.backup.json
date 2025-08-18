@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A7328B-216D-4EFC-A480-8FB2644BE7CA}|..\\EmployeeCrudNew\\EmployeeCrudNew.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrudnew\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A7328B-216D-4EFC-A480-8FB2644BE7CA}|..\\EmployeeCrudNew\\EmployeeCrudNew.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrudnew\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A7328B-216D-4EFC-A480-8FB2644BE7CA}|..\\EmployeeCrudNew\\EmployeeCrudNew.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrudnew\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A7328B-216D-4EFC-A480-8FB2644BE7CA}|..\\EmployeeCrudNew\\EmployeeCrudNew.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrudnew\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A7328B-216D-4EFC-A480-8FB2644BE7CA}|..\\EmployeeCrudNew\\EmployeeCrudNew.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrudnew\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A7328B-216D-4EFC-A480-8FB2644BE7CA}|..\\EmployeeCrudNew\\EmployeeCrudNew.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrudnew\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\employeecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\employeecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A7328B-216D-4EFC-A480-8FB2644BE7CA}|..\\EmployeeCrudNew\\EmployeeCrudNew.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrudnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A7328B-216D-4EFC-A480-8FB2644BE7CA}|..\\EmployeeCrudNew\\EmployeeCrudNew.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrudnew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\charishma gada\\wipro\\day_24\\employeecrud\\employeecrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA2123-17D2-4657-86D1-E41FA99622DE}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeCrudNew\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "..\\EmployeeCrudNew\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:04:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\EmployeeCrudNew\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "..\\EmployeeCrudNew\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T18:02:23.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeCrudNew\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "..\\EmployeeCrudNew\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:00:21.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\EmployeeCrudNew\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "..\\EmployeeCrudNew\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T17:59:17.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeCrudNew\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "..\\EmployeeCrudNew\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T17:32:40.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeCrudNew\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\EmployeeCrudNew\\Models\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:57:13.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeCrudNew\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\Program.cs",
+              "RelativeToolTip": "..\\EmployeeCrudNew\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:49:22.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\EmployeeCrudNew\\appsettings.json",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrudNew\\appsettings.json",
+              "RelativeToolTip": "..\\EmployeeCrudNew\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T16:49:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:28:48.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Program.cs",
+              "RelativeToolTip": "EmployeeCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:52:41.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Details.cshtml",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:21:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeCrud.csproj",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\EmployeeCrud.csproj",
+              "RelativeDocumentMoniker": "EmployeeCrud\\EmployeeCrud.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\EmployeeCrud.csproj",
+              "RelativeToolTip": "EmployeeCrud\\EmployeeCrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T08:38:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:26:26.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:23:28.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:10:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:08:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T08:42:48.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:57:04.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:02:55.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeeCrud\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:00:29.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\appsettings.json",
+              "RelativeToolTip": "EmployeeCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T08:50:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeCrud\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:40:55.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_24\\EmployeeCrud\\EmployeeCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "EmployeeCrud\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:43:41.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

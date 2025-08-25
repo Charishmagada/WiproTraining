@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\carrentalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\carrentalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|c:\\users\\charishma gada\\wipro\\day_30\\carrentalproject\\carrentalproject\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53822B-DC79-450E-A16F-B4D54C261F48}|CarRentalProject\\CarRentalProject.csproj|solutionrelative:carrentalproject\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarRentalProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:19:36.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "CarRentalProject\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:17:07.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Program.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Program.cs",
+              "RelativeToolTip": "CarRentalProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:02:35.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "CarRentalProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\appsettings.json",
+              "RelativeToolTip": "CarRentalProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T11:02:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "CarRentalProject\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:26:52.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\AuthService.cs",
+              "RelativeToolTip": "CarRentalProject\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:25:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\IAuthService.cs",
+              "RelativeToolTip": "CarRentalProject\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:24:34.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarRentalProject",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\CarRentalProject.csproj",
+              "RelativeDocumentMoniker": "CarRentalProject\\CarRentalProject.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\CarRentalProject.csproj",
+              "RelativeToolTip": "CarRentalProject\\CarRentalProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T10:21:11.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Models\\CarDbContext.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\CarDbContext.cs",
+              "RelativeToolTip": "CarRentalProject\\Models\\CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:19:30.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\Login.cs",
+              "RelativeToolTip": "CarRentalProject\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:17:58.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\Vehicle.cs",
+              "RelativeToolTip": "CarRentalProject\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:15:21.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "CarRentalProject\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\day_30\\CarRentalProject\\CarRentalProject\\Models\\Users.cs",
+              "RelativeToolTip": "CarRentalProject\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:10:57.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

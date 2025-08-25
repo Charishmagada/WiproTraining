@@ -1,0 +1,6 @@
+@GithubAuth_HostAddress = http://localhost:5062
+
+GET {{GithubAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\models\\emsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\models\\emsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|c:\\users\\charishma gada\\wipro\\employeemanagementsystem\\backend\\backend\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5622461-2CDC-45C9-B091-D2CCB7680AA4}|backend\\backend.csproj|solutionrelative:backend\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\User.cs",
+              "RelativeToolTip": "backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:58:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\Department.cs",
+              "RelativeToolTip": "backend\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:55:09.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:30:36.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:28:58.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:47:17.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Services\\IAuthService.cs",
+              "RelativeToolTip": "backend\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:57:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Services\\AuthService.cs",
+              "RelativeToolTip": "backend\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:02:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\LeaveHistoriesController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeToolTip": "backend\\Controllers\\LeaveHistoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:25:08.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "backend\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:24:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:16:14.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\Login.cs",
+              "RelativeToolTip": "backend\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:46:23.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "backend",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T09:57:25.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "backend\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:43:31.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T04:15:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\EmsDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\EmsDbContext.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\EmsDbContext.cs",
+              "RelativeToolTip": "backend\\Models\\EmsDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:07:24.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\LeaveHistory.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\LeaveHistory.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\LeaveHistory.cs",
+              "RelativeToolTip": "backend\\Models\\LeaveHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:54:13.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Charishma Gada\\Wipro\\EmployeeManagementSystem\\backend\\backend\\Models\\Employee.cs",
+              "RelativeToolTip": "backend\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:54:36.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

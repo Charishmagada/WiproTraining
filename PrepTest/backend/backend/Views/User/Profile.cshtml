@@ -1,0 +1,13 @@
+﻿@model User
+@{
+    ViewData["Title"] = "User Profile";
+}
+<h2>User Profile</h2>
+<p>Welcome, @Model.UserName! Here is your profile information.</p>
+
+<p>Email: @Model.Email</p>
+
+<form method="post" asp-controller="Account" asp-action="Logout">
+    @Html.AntiForgeryToken()
+    <button type="submit">Logout</button>
+</form>

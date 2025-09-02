@@ -1,5 +1,6 @@
 using backend.Models;
 using backend.Services;
+using backend.Middleware; 
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -8,15 +9,16 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configure Services
+// Configure Services 
 
+// CORS
 builder.Services.AddCors(options =>
 {
-    options.AddDefaultPolicy(builder =>
+    options.AddDefaultPolicy(policyBuilder =>
     {
-        builder.AllowAnyOrigin()
-               .AllowAnyMethod()
-               .AllowAnyHeader();
+        policyBuilder.AllowAnyOrigin()
+                     .AllowAnyMethod()
+                     .AllowAnyHeader();
     });
 });
 
@@ -55,7 +57,7 @@ builder.Services.AddSwaggerGen(opt =>
     });
 });
 
-// Configure DbContext
+// DbContext
 builder.Services.AddDbContext<EmsDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("Emsdb"));
@@ -64,10 +66,10 @@ builder.Services.AddDbContext<EmsDbContext>(options =>
 // JWT Settings
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
 
-// Register AuthService
+// Services
 builder.Services.AddScoped<IAuthService, AuthService>();
 
-// Add Authentication & JWT Bearer
+// Authentication & JWT
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -81,7 +83,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateIssuerSigningKey = true,
             ValidIssuer = builder.Configuration["JwtSettings:Issuer"],
             ValidAudience = builder.Configuration["JwtSettings:Audience"],
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:SecretKey"]))
+            IssuerSigningKey = new SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:SecretKey"] ?? string.Empty)
+            )
         };
     });
 
@@ -89,7 +93,8 @@ builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
-// Configure Middleware
+//  Configure Middleware 
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -100,8 +105,13 @@ app.UseHttpsRedirection();
 
 app.UseCors();
 
-app.UseAuthentication();  
-app.UseAuthorization();   
+app.UseAuthentication();
+
+//  Custom Global Exception Middleware
+app.UseExceptionMiddleware();
+
+
+app.UseAuthorization();
 
 app.MapControllers();
 

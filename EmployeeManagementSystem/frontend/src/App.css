@@ -1,0 +1,45 @@
+/* Navbar/Header */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #ddd;
+}
+
+.navbar h3 {
+  margin: 0;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.logout-btn {
+  padding: 6px 12px;
+  border: none;
+  background-color: #dc3545;
+  color: white;
+  border-radius: 0px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+/* Dashboard Layout */
+.dashboard-container {
+  padding: 20px;
+  text-align: left;
+}
+
+.dashboard-title {
+  margin-bottom: 15px;
+  font-size: 22px;
+  color: #2c3e50;
+}
+
+.dashboard-link {
+  display: block;
+  margin: 8px 0;
+  text-decoration: none;
+  color: #007bff;
+  font-size: 16px;
+}

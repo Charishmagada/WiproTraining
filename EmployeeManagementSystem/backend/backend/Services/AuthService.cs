@@ -1,5 +1,4 @@
 ﻿using backend.Models;
-using backend.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
@@ -13,29 +12,62 @@ namespace backend.Services
     {
         private readonly EmsDbContext _context;
         private readonly JwtSettings _jwtSettings;
+        private readonly PasswordService _passwordService;
 
         public AuthService(EmsDbContext context, IOptions<JwtSettings> jwtSettings)
         {
             _context = context;
             _jwtSettings = jwtSettings.Value;
+            _passwordService = new PasswordService();
         }
 
-        public async Task<(string Token, User User)> Authenticate(string username, string password)
+        public async Task<(string? Token, User? User)> Authenticate(string username, string password)
         {
             var user = await _context.Users.SingleOrDefaultAsync(u => u.Username == username);
-            if (user == null || user.PasswordHash != password) // 🔐 Hash check in real projects
+            if (user == null)
             {
                 return (null, null);
             }
 
+            bool passwordValid = false;
+
+            if (!string.IsNullOrEmpty(user.PasswordHash))
+            {
+                // Try hashed verification
+                try
+                {
+                    passwordValid = _passwordService.VerifyPassword(user.PasswordHash, password);
+                }
+                catch (FormatException)
+                {
+                    // Ignore if not a real hash (means it's plain text stored like "Siri123" or "hashedpwd2")
+                }
+
+                // Plain text fallback (treat anything like "Siri123" or "hashedpwd2" as normal password)
+                if (!passwordValid && user.PasswordHash == password)
+                {
+                    passwordValid = true;
+
+                    // Upgrade DB-proper hash (optional: you can comment this out if you want to keep plain)
+                    user.PasswordHash = _passwordService.HashPassword(password);
+                    await _context.SaveChangesAsync();
+                }
+            }
+
+            if (!passwordValid)
+            {
+                return (null, null);
+            }
+
+            // Generate JWT claims (safe defaults for nulls)
             var claims = new[]
             {
-                new Claim(ClaimTypes.Name, user.Username),
-                new Claim(ClaimTypes.Role, user.Role),
-                new Claim("EmpId", user.EmpId.ToString())
+                new Claim(ClaimTypes.Name, user.Username ?? string.Empty),
+                new Claim(ClaimTypes.Role, user.Role ?? "Employee"),
+                new Claim("EmpId", (user.EmpId?.ToString()) ?? "0")
             };
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.SecretKey));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.SecretKey ?? string.Empty));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(
@@ -50,6 +82,5 @@ namespace backend.Services
 
             return (tokenString, user);
         }
-
     }
 }

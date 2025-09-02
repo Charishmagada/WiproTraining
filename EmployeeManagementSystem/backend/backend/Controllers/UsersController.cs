@@ -1,7 +1,9 @@
 ﻿using backend.Models;
+using backend.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+
 namespace backend.Controllers
 {
     [Authorize]
@@ -10,10 +12,12 @@ namespace backend.Controllers
     public class UsersController : ControllerBase
     {
         private readonly EmsDbContext _context;
+        private readonly PasswordService _passwordService;
 
         public UsersController(EmsDbContext context)
         {
             _context = context;
+            _passwordService = new PasswordService();
         }
 
         // GET: api/users
@@ -39,27 +43,48 @@ namespace backend.Controllers
         [HttpPost]
         public async Task<ActionResult<User>> AddUser(User user)
         {
-            // Basic username check
             if (await _context.Users.AnyAsync(u => u.Username == user.Username))
             {
                 return BadRequest(new { message = "Username already exists" });
             }
 
+            // Always hash new user's password
+            user.PasswordHash = _passwordService.HashPassword(user.PasswordHash ?? string.Empty);
+
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
+
             return CreatedAtAction(nameof(GetUser), new { id = user.UserId }, user);
         }
 
         // PUT: api/users/{id}
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateUser(int id, User user)
+        public async Task<IActionResult> UpdateUser(int id, User updatedUser)
         {
-            if (id != user.UserId)
+            if (id != updatedUser.UserId)
             {
                 return BadRequest(new { message = "ID mismatch" });
             }
 
-            _context.Entry(user).State = EntityState.Modified;
+            var existingUser = await _context.Users.AsNoTracking().FirstOrDefaultAsync(u => u.UserId == id);
+            if (existingUser == null)
+            {
+                return NotFound(new { message = "User not found" });
+            }
+
+            // If password is changed, re-hash it
+            if (!string.IsNullOrEmpty(updatedUser.PasswordHash) &&
+                updatedUser.PasswordHash != existingUser.PasswordHash)
+            {
+                updatedUser.PasswordHash = _passwordService.HashPassword(updatedUser.PasswordHash);
+            }
+            else
+            {
+                // Keep the old password hash
+                updatedUser.PasswordHash = existingUser.PasswordHash;
+            }
+
+            _context.Entry(updatedUser).State = EntityState.Modified;
 
             try
             {
